@@ -30,7 +30,7 @@
 </p>  
   
 ## 💻 Technologies and Tools
-<p align="center"> 
+<p align="left"> 
 	<code> <img height="32" width="32" src="images/react.svg" /> </code>
 	<code> <img height="32" width="32" src="images/nodejs.svg" />  </code>
 	<code> <img height="32" width="32" src="images/postgreSQL.svg" /> </code>
