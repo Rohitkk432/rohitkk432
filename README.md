@@ -45,13 +45,13 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rohitkk432's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitkk432&show_icons=true&count_private=true&locale=en&layout=compact&theme=tokyonight" /></a>
+  <a href="#"><img alt="rohitkk432's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitkk432&show_icons=true&count_private=true&locale=en&layout=compact&theme=tokyonight" /></a>
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rohitkk432's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkk432&langs_count=10&layout=compact&theme=tokyonight" /></a>
+  <a href="#"><img alt="rohitkk432's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkk432&langs_count=10&layout=compact&theme=tokyonight" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
@@ -59,7 +59,7 @@
 <details>
   <summary>⚡GitHub Streak</summary>
   <br/>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="rohitkk432's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkk432&theme=tokyonight" /></a>
+  <a href="#"><img alt="rohitkk432's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkk432&theme=tokyonight" /></a>
 </details>
 
 <!-- Here are some ideas to get you started:
