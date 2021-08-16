@@ -9,7 +9,7 @@
 
 -   💻 Working on **my React, Express and Node skills**
 
--   🌱 Learning **NoSQL databases**
+-   🌱 Learning **Graphql**
 
 -   🎓 **Msc. Economics Student** at BITS Goa
 
