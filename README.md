@@ -34,6 +34,10 @@
 	<code> <img height="32" width="32" src="images/react.svg" /> </code>
 	<code> <img height="32" width="32" src="images/nodejs.svg" />  </code>
 	<code> <img height="32" width="32" src="images/postgreSQL.svg" /> </code>
+	<code> <img height="32" width="32" src="images/expressjs-icon.svg" /> </code>
+	<code> <img height="32" width="32" src="images/graphql-icon.svg" /> </code>
+	<code> <img height="32" width="32" src="images/mongodb-icon.svg" /> </code>
+	<code> <img height="32" width="32" src="images/material-ui-1.svg" /> </code>
 	<code> <img height="32" width="32" src="images/js.svg" /> </code>
 	<code> <img height="32" width="32" src="images/css3.svg" /> </code>
 	<code> <img height="32" width="32" src="images/html5.svg" /> </code>
