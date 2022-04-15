@@ -20,13 +20,12 @@
 ## 📫 Connect with me
 
 <p align="left">  
-	<a href="linkedin.com/in/rohit-kodam-b81b95204/" target="_blank">
+	<a href="https://www.linkedin.com/in/rohit-kodam-b81b95204/" target="_blank">
 		<img align="center" height="30" width="30" src="images/linkedin.svg" alt="Rohit Kodam | LinkedIn" />
 	</a>
 	<a href="mailto:f20201141@goa.bits-pilani.ac.in">
 		<img align="center" height="30" width="30" src="images/mail.svg" alt="Rohit Kodam | Mail" />
-    </a>
-
+    	</a>
 </p>  
   
 ## 💻 Technologies and Tools
