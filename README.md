@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkk432&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkk432" /> </p>
 
- <img src="images/poster1.svg" alt="rohitkk432" align="right" height="450px" />
+ <img src="images/poster1.svg" alt="rohitkk432" align="right" height="420px" />
 
 ## 📖 About me
 
