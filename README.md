@@ -1,9 +1,9 @@
 <br />
-<img src="./header.png" />
+<img src="./header.png" height="200px" width="100%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkk432&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkk432" /> </p>
 
- <img src="images/poster.svg" alt="rohitkk432" align="right" height="500px" />
+ <img src="images/poster1.svg" alt="rohitkk432" align="right" height="450px" />
 
 ## 📖 About me
 
