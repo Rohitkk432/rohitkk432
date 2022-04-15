@@ -7,11 +7,11 @@
 
 ## 📖 About me
 
--   💻 Working on **my React, Express and Node skills**
+-   💻 Working as an intern at **OnFinance**
 
--   🌱 Learning **Graphql**
+-   🌱 Learning **new stuff everyday**
 
--   🎓 **Msc. Economics Student** at BITS Goa
+-   🎓 **Economics &  Computer Science Student** at BITS Goa
 
 -   💻 I enjoy watching **Anime**
 
