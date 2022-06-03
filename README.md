@@ -21,25 +21,31 @@
 
 <p align="left">  
 	<a href="https://www.linkedin.com/in/rohit-kodam-b81b95204/" target="_blank">
-		<img align="center" height="30" width="30" src="images/linkedin.svg" alt="Rohit Kodam | LinkedIn" />
+		<img align="center" height="30" width="30" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Rohit Kodam | LinkedIn" />
 	</a>
+	&nbsp
+	<a href="https://www.instagram.com/ryuk_432/" target="_blank">
+		<img align="center" height="30" width="30" src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Rohit Kodam | Instagram" />
+	</a>
+	&nbsp
 	<a href="mailto:f20201141@goa.bits-pilani.ac.in">
-		<img align="center" height="30" width="30" src="images/mail.svg" alt="Rohit Kodam | Mail" />
+		<img align="center" height="30" width="30" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Rohit Kodam | Mail" />
     	</a>
 </p>  
   
 ## 💻 Technologies and Tools
-<p align="left"> 
-	<code> <img height="32" width="32" src="images/react.svg" /> </code>
-	<code> <img height="32" width="32" src="images/nodejs.svg" />  </code>
-	<code> <img height="32" width="32" src="images/postgreSQL.svg" /> </code>
-	<code> <img height="32" width="32" src="images/expressjs-icon.svg" /> </code>
-	<code> <img height="32" width="32" src="images/graphql-icon.svg" /> </code>
-	<code> <img height="32" width="32" src="images/mongodb-icon.svg" /> </code>
-	<code> <img height="32" width="32" src="images/material-ui-1.svg" /> </code>
-	<code> <img height="32" width="32" src="images/js.svg" /> </code>
-	<code> <img height="32" width="32" src="images/css3.svg" /> </code>
-	<code> <img height="32" width="32" src="images/html5.svg" /> </code>
+<p align="left">
+	<img height="32" width="32" src="images/html5.svg" /> &nbsp
+	<img height="32" width="32" src="images/css3.svg" /> &nbsp
+	<img height="32" width="32" src="images/js.svg" /> &nbsp
+	<img height="32" width="32" src="images/react.svg" /> &nbsp
+	<img height="32" width="32" src="images/nodejs.svg" /> &nbsp
+	<img height="32" width="32" src="images/expressjs-icon.svg" /> &nbsp
+	<img height="32" width="32" src="images/mongodb-icon.svg" /> &nbsp
+	<img height="32" width="32" src="images/postgreSQL.svg" /> &nbsp
+	<img height="32" width="32" src="images/graphql-icon.svg" /> &nbsp	
+	<img height="32" width="32" src="https://www.svgrepo.com/show/353659/docker-icon.svg" /> &nbsp
+	<img height="32" width="32" src="https://www.svgrepo.com/show/353983/kubernetes.svg" />
 </p>  
   
 ## 📈 Github Stats
