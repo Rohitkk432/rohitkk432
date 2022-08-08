@@ -61,6 +61,7 @@
 - Web3
 <p align="left">
 	<img height="32" width="32" src="https://www.svgrepo.com/show/374088/solidity.svg" /> &nbsp
+	<img height="32" width="32" src="https://trufflesuite.com/assets/logo.png" /> &nbsp
 </p>
 
 - Other DevTools
