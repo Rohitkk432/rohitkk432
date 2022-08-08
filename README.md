@@ -35,7 +35,7 @@
   
 ## 💻 Technologies and Tools
 
-- Languages
+### Languages
 <p align="left">
 	<img height="32" width="32" src="images/html5.svg" /> &nbsp
 	<img height="32" width="32" src="images/css3.svg" /> &nbsp
@@ -45,7 +45,7 @@
 	<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /> &nbsp
 </p>
 
-- Full-Stack WebDev
+### Full-Stack WebDev
 <p align="left">
 	<img height="32" width="32" src="images/react.svg" /> &nbsp
 	<img height="32" width="32" src="images/nodejs.svg" /> &nbsp
@@ -58,18 +58,17 @@
 	
 </p>
 
-- Web3
+### Web3
 <p align="left">
 	<img height="32" width="32" src="https://www.svgrepo.com/show/374088/solidity.svg" /> &nbsp
 	<img height="32" width="32" src="https://trufflesuite.com/assets/logo.png" /> &nbsp
 </p>
 
-- Other DevTools
+### Other DevTools
 <p align="left">
 	<img height="32" width="32" src="https://www.svgrepo.com/show/353659/docker-icon.svg" /> &nbsp
 	<img height="32" width="32" src="https://www.svgrepo.com/show/353983/kubernetes.svg" /> &nbsp
 </p>
-
   
 ## 📈 Github Stats
 
