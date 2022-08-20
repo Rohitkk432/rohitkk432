@@ -36,39 +36,20 @@
 ## 💻 Technologies and Tools
 
 ### Languages
-<p align="left">
-	<img height="32" width="32" src="images/html5.svg" /> &nbsp
-	<img height="32" width="32" src="images/css3.svg" /> &nbsp
-	<img height="32" width="32" src="images/js.svg" /> &nbsp
-	<img height="32" width="32" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" /> &nbsp
-	<img height="32" width="32" src="https://www.svgrepo.com/show/374016/python.svg" /> &nbsp
-	<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /> &nbsp
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,c&theme=dark)](https://skillicons.dev)
 
 ### Full-Stack WebDev
-<p align="left">
-	<img height="32" width="32" src="images/react.svg" /> &nbsp
-	<img height="32" width="32" src="images/nodejs.svg" /> &nbsp
-	<img height="32" width="32" src="images/expressjs-icon.svg" /> &nbsp
-	<img height="32" width="32" src="images/mongodb-icon.svg" /> &nbsp
-	<img height="32" width="32" src="images/postgreSQL.svg" /> &nbsp
-	<img height="32" width="32" src="images/graphql-icon.svg" /> &nbsp
-	<img height="32" width="32" src="https://www.svgrepo.com/show/373554/django.svg" /> &nbsp
-	<img height="32" width="32" src="https://www.svgrepo.com/show/306053/flask.svg" /> &nbsp
-	
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,graphql,django,flask&theme=dark)](https://skillicons.dev)
 
 ### Web3
-<p align="left">
-	<img height="32" width="32" src="https://www.svgrepo.com/show/374088/solidity.svg" /> &nbsp
-	<img height="32" width="32" src="https://trufflesuite.com/assets/logo.png" /> &nbsp
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=solidity&theme=dark)](https://skillicons.dev)
 
 ### Other DevTools
-<p align="left">
-	<img height="32" width="32" src="https://www.svgrepo.com/show/353659/docker-icon.svg" /> &nbsp
-	<img height="32" width="32" src="https://www.svgrepo.com/show/353983/kubernetes.svg" /> &nbsp
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes&theme=dark)](https://skillicons.dev)
   
 ## 📈 Github Stats
 
@@ -93,13 +74,6 @@
   <a href="#"><img alt="rohitkk432's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkk432&theme=tokyonight" /></a>
 </details>
 
-<!-- Here are some ideas to get you started:
+## My Contribution Graph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohitkk432&theme=react-dark)
