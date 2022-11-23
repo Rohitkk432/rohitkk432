@@ -7,7 +7,7 @@
 
 ## 📖 About me
 
--   💻 Working as an intern at **OnFinance**
+-   💻 Learning **Solana Web3**
 
 -   🌱 Learning **new stuff everyday**
 
