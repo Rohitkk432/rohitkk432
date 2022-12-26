@@ -37,7 +37,7 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,c&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,rust,java,c&theme=dark)](https://skillicons.dev)
 
 ### Full-Stack WebDev
 
@@ -76,4 +76,4 @@
 
 ## My Contribution Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohitkk432&theme=react-dark)
+![Rohit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rohitkk432&theme=tokyo-night&hide_border=true)
