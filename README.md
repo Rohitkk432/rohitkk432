@@ -37,7 +37,7 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,rust,java,c&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,rust,java,c,cpp&theme=dark)](https://skillicons.dev)
 
 ### Full-Stack WebDev
 
