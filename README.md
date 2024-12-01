@@ -28,7 +28,7 @@
 		<img align="center" height="30" width="30" src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Rohit Kodam | Instagram" />
 	</a>
 	&nbsp
-	<a href="mailto:f20201141@goa.bits-pilani.ac.in">
+	<a href="mailto:rohitkodam4@gmail.com">
 		<img align="center" height="30" width="30" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Rohit Kodam | Mail" />
     	</a>
 </p>  
