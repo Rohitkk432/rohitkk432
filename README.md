@@ -76,4 +76,4 @@
 
 ## My Contribution Graph
 
-![Rohit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rohitkk432&theme=tokyo-night&hide_border=true)
+![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohitkk432&theme=tokyo-night&hide_border=true)
